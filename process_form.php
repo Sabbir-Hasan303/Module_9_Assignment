@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		// Send the success message
 		echo "<script type='text/javascript'>alert('Thank you for contacting us!')</script>";
 	} 
-	header("Location: index.html"); // replace "/" with the URL of your homepage
+	header("Location: https://github.com/Sabbir-Hasan303/Module_9_Assignment/index.html");
 	exit;
 }
 ?>
